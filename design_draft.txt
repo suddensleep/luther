@@ -1,0 +1,19 @@
+```
+Question/need: 
+How many superstars does your summer blockbuster need?
+or
+Can we predict total gross revenue of a summer blockbuster as a 
+function of number of high-profile stars in the movie?
+
+Description of my sample of movies and/or other data: 
+The sample of movies I'll be using is the group of "summer blockbusters" 
+from the past ten years. This will be defined as the top N high-grossing 
+movies (where N is to be determined) between June 1 and September 1 of 
+each year. 
+
+Characteristics of each movie and/or other entities:
+The other data I'll be considering will be the number of high-profile 
+actors and actresses in each of these movies. I define a "high-profile" 
+star as a star whose total gross box office pull (over all movies)is in 
+the top M of all movie stars (where M is to be determined).
+```
